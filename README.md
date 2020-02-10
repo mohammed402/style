@@ -11,3 +11,8 @@
   align-items: center;
   justify-content: center;
 }
+.example-card {
+  margin: 5px;
+  padding-bottom: 40px;
+}
+
